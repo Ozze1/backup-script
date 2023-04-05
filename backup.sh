@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source_dir="/Users/osama/Documents/PycharmProjects/schoolProjects/BackUpScript"
-target_dir="/Users/osama/Documents/PycharmProjects/schoolProjects/BackUpScript"
+source_dir="/path/to/source"
+target_dir="user@host:/path/to/target"
 
 now=$(date +"%Y-%m-%d_%H-%M-%S")
 
